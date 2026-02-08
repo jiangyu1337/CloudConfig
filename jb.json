@@ -1,0 +1,519 @@
+{
+  "modules": {
+    "Animations": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Block Mods": 1,
+        "Aura Auto Block": true,
+        "Blocking-Y": -0.5,
+        "Only Aura": false,
+        "Blocking-X": 0.5
+      }
+    },
+    "ArrayList": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Speed": 25.0,
+        "ArrayList Size": 10.0,
+        "Position": {
+          "x": 1429.5,
+          "y": 18.976276
+        },
+        "Pretty Module Name": true,
+        "Hide Render Modules": true,
+        "Sync Color": true
+      }
+    },
+    "KeepSprint": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "Glow": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Player": true,
+        "Animals": false,
+        "Mobs": false,
+        "Items": false,
+        "Arrows": false
+      }
+    },
+    "SafeWalk": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "AutoTools": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Check Sword": false,
+        "Switch Back": true,
+        "Silent": true
+      }
+    },
+    "FullBright": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Brightness": 1.0
+      }
+    },
+    "GrimLowHop": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Logging": false,
+        "Ticks": 3.0,
+        "Start Tick": 2.0,
+        "Skip Ticks": 2.0
+      }
+    },
+    "Eagle": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "OnlyBackwards": false,
+        "CPS": 10.0,
+        "FastPlace": false,
+        "MaxDelay (Ticks)": 3.0,
+        "OnlyWithBlocks": false,
+        "MinDelay (Ticks)": 2.0
+      }
+    },
+    "AntiBlindness": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "AntiNausea": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "AntiFireball": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "Fov": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Fov": 120.0
+      }
+    },
+    "ViewClip": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Animation": true,
+        "Scale": 1.0,
+        "Animation Speed": 0.3
+      }
+    },
+    "Compass": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "No Player Only": true,
+        "Compass Only": true
+      }
+    },
+    "AutoClicker": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Min CPS": 12.0,
+        "Item Check": false,
+        "Max CPS": 18.0
+      }
+    },
+    "Stuck": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "ChestESP": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "ServerNameSpoof": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "Sprint": {
+      "key": 0,
+      "enabled": true,
+      "values": {}
+    },
+    "FastWeb": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "HUDEditor": {
+      "key": 345,
+      "enabled": false,
+      "values": {}
+    },
+    "KillAura": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "CPS": 10.0,
+        "Aim Range": 5.0,
+        "Rotation Speed": 180.0
+      }
+    },
+    "Middle Click": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "NoRender": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Disable Effects": true
+      }
+    },
+    "Scaffold": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "SafeWalk": true,
+        "Telly": true,
+        "Snap": false,
+        "Rotation Back Speed": 180.0,
+        "Telly Ticks": 1.0,
+        "Rotation Speed": 180.0
+      }
+    },
+    "AutoHeypixel": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Auto Screenshot": true
+      }
+    },
+    "Notification": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Position": {
+          "x": 16.0,
+          "y": 102.946365
+        }
+      }
+    },
+    "Helper": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "ClickGUI": {
+      "key": 77,
+      "enabled": false,
+      "values": {
+        "Language": 0
+      }
+    },
+    "InventoryManager": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Max Delay (Ticks)": 6.0,
+        "Bow Slot": 5.0,
+        "Block Slot": 2.0,
+        "Axe Slot": 4.0,
+        "Water Bucket Slot": 6.0,
+        "Switch Pickaxe": true,
+        "Ender Pearl Slot": 7.0,
+        "Max Eggs \u0026 Snowballs Size": 64.0,
+        "Switch Ender Pearl": true,
+        "Switch Eggs \u0026 Snowballs": false,
+        "Fireball Slot": 8.0,
+        "Sword Slot": 1.0,
+        "Switch Sword": true,
+        "Switch Rod": false,
+        "Offhand Items": 0,
+        "Switch Water Bucket": true,
+        "Throw Items": true,
+        "Keep Eggs \u0026 Snowballs": true,
+        "Keep Lava Buckets": 1.0,
+        "Max Block Size": 256.0,
+        "Auto Armor": true,
+        "Pickaxe Slot": 3.0,
+        "Eggs \u0026 Snowballs Slot": 9.0,
+        "Switch Axe": true,
+        "Switch Bow or Crossbow": true,
+        "Bow Priority": 0,
+        "Golden Apple Slot": 9.0,
+        "Min Delay (Ticks)": 2.0,
+        "Inventory Only": true,
+        "Switch Block": true,
+        "Switch Fireball": true,
+        "Rod Slot": 9.0,
+        "Switch Golden Apple": true,
+        "Keep Water Buckets": 1.0,
+        "Max Arrow Size": 256.0
+      }
+    },
+    "Target": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Player": true,
+        "Invisibles": true,
+        "Animals": true,
+        "Mobs": true,
+        "Villager": true
+      }
+    },
+    "TargetHUD": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Position": {
+          "x": 1083.5,
+          "y": 540.89325
+        }
+      }
+    },
+    "PostProcess": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Blur FPS": 90.0,
+        "Blur Strength": 2.0,
+        "Glow": true
+      }
+    },
+    "Scoreboard": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Down": 120.0,
+        "Hide Red Score": true
+      }
+    },
+    "AimAssist": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Speed": 2.0,
+        "Require Mouse Movement": false,
+        "Aim Pitch": false,
+        "On Target Speed": 1.0,
+        "Limit Items": false,
+        "Aim Whilst on Target": false,
+        "FOV": 90.0,
+        "Require Swinging": true,
+        "Sticky": false
+      }
+    },
+    "HUD": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Red 1": 102.0,
+        "Red 2": 6.0,
+        "Module Toggle Sound": true,
+        "Blue 1": 209.0,
+        "Green 2": 149.0,
+        "Blue 2": 255.0,
+        "Green 1": 255.0
+      }
+    },
+    "Teams": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Mode": 0
+      }
+    },
+    "LongJump": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "AntiBots": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Respawn Time": 2500.0
+      }
+    },
+    "NoJumpDelay": {
+      "key": 0,
+      "enabled": true,
+      "values": {}
+    },
+    "NoSlow": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Crossbow": true,
+        "Mode": 0,
+        "Bow": true,
+        "Food": true
+      }
+    },
+    "ChestStealer": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Min Delay (Ticks)": 2.0,
+        "Max Delay (Ticks)": 6.0,
+        "Ender Chest": false
+      }
+    },
+    "CrystalAura": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "EffectHUD": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Position": {
+          "x": 10.0,
+          "y": 250.0
+        }
+      }
+    },
+    "Projectiles": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Show Snowballs": false,
+        "Show Potions": false,
+        "Show Eggs": false,
+        "Show Pearls": true,
+        "Show Arrows": true
+      }
+    },
+    "ItemTags": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Gold": true,
+        "Useful Item": true,
+        "Ender Pearl": true,
+        "All Items": false,
+        "Scale": 0.25,
+        "Diamond": true,
+        "Iron": true,
+        "God Items": true,
+        "Golden Apple": true
+      }
+    },
+    "Blink": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Release Speed (Tick)": 10.0,
+        "TNT Distance": 5.0,
+        "Player Distance": 4.0,
+        "Max Ticks": 20.0,
+        "Fake Player HitBoxes": 0.2,
+        "Release Ticks on Damage": 20.0
+      }
+    },
+    "FastPlace": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "CPS": 10.0
+      }
+    },
+    "NameTags": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Scale": 0.3
+      }
+    },
+    "NameProtect": {
+      "key": 0,
+      "enabled": true,
+      "values": {}
+    },
+    "Velocity": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "AttackCounts": 3.0,
+        "Mode": 0,
+        "MaxAlinkTime (ms)": 5000.0
+      }
+    },
+    "TimeChanger": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "World Time": 8000.0
+      }
+    },
+    "GhostHand": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "EffectTags": {
+      "key": 0,
+      "enabled": false,
+      "values": {
+        "Shared": true,
+        "Debug": false
+      }
+    },
+    "Watermark": {
+      "key": 0,
+      "enabled": true,
+      "values": {
+        "Speed": 10.0,
+        "Position": {
+          "x": 34.0,
+          "y": 35.989685
+        },
+        "Sync Color": true
+      }
+    },
+    "ClientFriend": {
+      "key": 0,
+      "enabled": false,
+      "values": {}
+    },
+    "NoHurtCam": {
+      "key": 0,
+      "enabled": true,
+      "values": {}
+    }
+  },
+  "friends": [],
+  "killSays": [],
+  "spammerMessages": [],
+  "proxy": {
+    "port": 0
+  },
+  "gui": {
+    "x": 403.0,
+    "y": 147.0,
+    "width": 670.0,
+    "height": 430.0
+  },
+  "metadata": {
+    "name": "jb",
+    "saveTime": 1770555527767,
+    "version": "1.0"
+  }
+}
